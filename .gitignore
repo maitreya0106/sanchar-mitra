@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Trained models & data (large binary files)
+*.pkl
+*.npy
+asl_dataset.csv
+
+# Kaggle dataset (downloadable via download_dataset.py)
+kaggle_dataset/
+
+# Vosk model (downloadable separately)
+vosk-model-small-en-us-0.15/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Misc
+*.log
