@@ -9,16 +9,11 @@ build/
 venv/
 env/
 
-# Trained models & data (large binary files)
-*.pkl
-*.npy
-asl_dataset.csv
-
-# Kaggle dataset (downloadable via download_dataset.py)
-kaggle_dataset/
-
 # Vosk model (downloadable separately)
 vosk-model-small-en-us-0.15/
+
+# Internal docs
+PROJECT_CONTEXT.md
 
 # IDE / Editor
 .vscode/

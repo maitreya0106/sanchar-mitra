@@ -1,0 +1,35 @@
+ASL Alphabet Hand Landmarks Dataset - Statistics
+================================================
+
+Generated: Tue Jan 13 11:51:32 MSK 2026
+
+Class Distribution:
+  A:  404 samples
+  B:  400 samples
+  C:  403 samples
+  D:  404 samples
+  E:  403 samples
+  F:  406 samples
+  G:  404 samples
+  H:  404 samples
+  I:  403 samples
+  J:  402 samples
+  K:  405 samples
+  L:  405 samples
+  M:  404 samples
+  N:  404 samples
+  O:  408 samples
+  P:  405 samples
+  Q:  411 samples
+  R:  404 samples
+  S:  400 samples
+  T:  403 samples
+  U:  406 samples
+  V:  405 samples
+  W:  404 samples
+  X:  405 samples
+  Y:  403 samples
+  Z:  403 samples
+
+Total:    10508 samples
+Classes: 26
