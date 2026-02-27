@@ -261,7 +261,7 @@ The board uses the **ATON neural network accelerator** for on-device inference o
 | 👨‍💻 | **Ankur Majumdar** | JIIT Noida |
 | 👨‍💻 | **Maitreya Agarwal** | JIIT Noida |
 
-Built with ❤️ for the **ST Innovation Fair 2026**
+
 
 ---
 
